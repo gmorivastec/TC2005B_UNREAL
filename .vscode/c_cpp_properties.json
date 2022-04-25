@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "TC2005B_UEEditor Editor Win64 Development (TC2005B_UE)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Guillermo\\Documents\\Unreal Projects\\TC2005B_UE\\.vscode\\compileCommands_TC2005B_UE.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Guillermo\\Documents\\Unreal Projects\\TC2005B_UE\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

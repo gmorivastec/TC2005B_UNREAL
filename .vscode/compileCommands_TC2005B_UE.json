@@ -1,0 +1,37 @@
+[
+	{
+		"file": "C:\\\\Users\\\\Guillermo\\\\Documents\\\\Unreal Projects\\\\TC2005B_UE\\\\Source\\\\TC2005B_UE\\\\TC2005B_UE.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Guillermo\\Documents\\Unreal Projects\\TC2005B_UE\\.vscode\\compileCommands_TC2005B_UE\\TC2005B_UE.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Guillermo\\\\Documents\\\\Unreal Projects\\\\TC2005B_UE\\\\Source\\\\TC2005B_UE\\\\TC2005B_UE.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Guillermo\\Documents\\Unreal Projects\\TC2005B_UE\\.vscode\\compileCommands_TC2005B_UE\\TC2005B_UE.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Guillermo\\\\Documents\\\\Unreal Projects\\\\TC2005B_UE\\\\Source\\\\TC2005B_UE\\\\TC2005B_UE.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Guillermo\\Documents\\Unreal Projects\\TC2005B_UE\\.vscode\\compileCommands_TC2005B_UE\\TC2005B_UE.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Guillermo\\\\Documents\\\\Unreal Projects\\\\TC2005B_UE\\\\Source\\\\TC2005B_UE\\\\TC2005B_UECharacter.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Guillermo\\Documents\\Unreal Projects\\TC2005B_UE\\.vscode\\compileCommands_TC2005B_UE\\TC2005B_UE.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Guillermo\\\\Documents\\\\Unreal Projects\\\\TC2005B_UE\\\\Source\\\\TC2005B_UE\\\\TC2005B_UECharacter.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Guillermo\\Documents\\Unreal Projects\\TC2005B_UE\\.vscode\\compileCommands_TC2005B_UE\\TC2005B_UE.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Guillermo\\\\Documents\\\\Unreal Projects\\\\TC2005B_UE\\\\Source\\\\TC2005B_UE\\\\TC2005B_UEGameMode.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Guillermo\\Documents\\Unreal Projects\\TC2005B_UE\\.vscode\\compileCommands_TC2005B_UE\\TC2005B_UE.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Guillermo\\\\Documents\\\\Unreal Projects\\\\TC2005B_UE\\\\Source\\\\TC2005B_UE\\\\TC2005B_UEGameMode.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Guillermo\\Documents\\Unreal Projects\\TC2005B_UE\\.vscode\\compileCommands_TC2005B_UE\\TC2005B_UE.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	}
+]
